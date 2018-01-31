@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="2571.0" y="4568.0">com</node>
+    <node x="4613.959066100235" y="1082.5">AbstractFactories.FichierFactories.OiseauAuLancer</node>
+    <node x="1650.0" y="522.5">AbstractFactories.VitesseFactories.Vitesse</node>
+    <node x="4834.959066100235" y="1082.5">AbstractFactories.FichierFactories.CochonVivant</node>
+    <node x="5867.959066100236" y="1082.5">AbstractFactories.FichierFactories.OiseauKO</node>
+    <node x="3019.226190476191" y="2483.0">Builder.Decorator.AnimalAvecMouvement</node>
+    <node x="6418.090104556694" y="2747.0">Builder.Decorator.Lanceur</node>
+    <node x="3339.892857142858" y="1082.5">AbstractFactories.FichierFactories.Terrain</node>
+    <node x="943.0" y="4568.0">groovyjarjarasm</node>
+    <node x="2772.0" y="4568.0">java</node>
+    <node x="3560.330357142858" y="467.0">AbstractFactories.CouleurFactories.Gris</node>
+    <node x="2366.0" y="4568.0">javax</node>
+    <node x="2155.0" y="4568.0">javafx</node>
+    <node x="5426.959066100235" y="1082.5">AbstractFactories.FichierFactories.OiseauEnLancer</node>
+    <node x="2579.156744131629" y="0.0">AbstractFactories.CouleurFactories.Couleur</node>
+    <node x="4900.297369131629" y="560.0">AbstractFactories.FormeFactories.Triangle</node>
+    <node x="1942.0" y="4568.0">oracle</node>
+    <node x="0.0" y="467.0">AbstractFactories.CouleurFactories.Vert</node>
+    <node x="4323.600121717792" y="560.0">AbstractFactories.FichierFactories.Fichier</node>
+    <node x="2228.153035174251" y="1101.0">Builder.Score</node>
+    <node x="4119.959066100235" y="1008.0">Builder.Decorator.Animal</node>
+    <node x="5138.297369131629" y="560.0">AbstractFactories.FormeFactories.Ligne</node>
+    <node x="330.0" y="467.0">AbstractFactories.CouleurFactories.Noir</node>
+    <node x="4555.29655028922" y="2292.0">Builder.Decorator.Element</node>
+    <node x="1237.0" y="4568.0">META-INF</node>
+    <node x="1320.0" y="467.0">AbstractFactories.CouleurFactories.Rouge</node>
+    <node x="6147.090104556694" y="2784.5">Builder.Decorator.Terrain</node>
+    <node x="6252.025121717792" y="560.0">AbstractFactories.FormeFactories.Polygone</node>
+    <node x="6728.025121717792" y="560.0">AbstractFactories.FormeFactories.Point</node>
+    <node x="1719.0" y="4568.0">groovy</node>
+    <node x="5272.547369131629" y="93.0">AbstractFactories.FormeFactories.Forme</node>
+    <node x="6490.025121717792" y="560.0">AbstractFactories.FormeFactories.Rectangle</node>
+    <node x="586.0" y="4568.0">groovyjarjarcommonscli</node>
+    <node x="1984.1530351742508" y="1101.0">Builder.GameOver</node>
+    <node x="40.0" y="4580.867838541667">groovyjarjarantlr</node>
+    <node x="7414.100121717792" y="2729.0">ObserverObservableMVC.Observable</node>
+    <node x="4663.959077380952" y="4137.0">ObserverObservableMVC.Model.Memento.TemplatMethod.EntreeDuJeu</node>
+    <node x="1483.0" y="4568.0">netscape</node>
+    <node x="336.0" y="4568.0">Builder.Decorator.Buffer</node>
+    <node x="7216.025121717792" y="560.0">AbstractFactories.FormeFactories.Cercle</node>
+    <node x="2035.0901045566943" y="467.0">AbstractFactories.CouleurFactories.Jaune</node>
+    <node x="2969.0" y="4568.0">sun</node>
+    <node x="5644.959066100235" y="1082.5">AbstractFactories.FichierFactories.OiseautAReussit</node>
+    <node x="3148.892857142858" y="1082.5">AbstractFactories.FichierFactories.Lanceur</node>
+    <node x="3595.6465661002358" y="1082.5">AbstractFactories.FichierFactories.Ciel</node>
+    <node x="5195.959077380952" y="4174.0">ObserverObservableMVC.Model.Memento.TemplatMethod.Niveau1</node>
+    <node x="5476.959077380952" y="3798.0">ObserverObservableMVC.Controller.AbstractController</node>
+    <node x="2928.892857142858" y="1027.0">AbstractFactories.AbstractFactory</node>
+    <node x="5039.959066100235" y="1027.0">Builder.Decorator.Souris</node>
+    <node x="6295.090104556694" y="2784.5">Builder.Decorator.Ciel</node>
+    <node x="4884.959077380952" y="3724.0">ObserverObservableMVC.Model.Memento.TemplatMethod.Jeu</node>
+    <node x="3787.6465661002358" y="1063.5">Builder.Decorator.Fenetre</node>
+    <node x="3163.0" y="4568.0">org</node>
+    <node x="4903.959077380952" y="4364.0">ObserverObservableMVC.Model.Memento.InteractionNiveaux</node>
+    <node x="6260.840104556694" y="2446.0">Builder.Decorator.ArrierePlan</node>
+    <node x="660.0" y="467.0">AbstractFactories.CouleurFactories.Blanc</node>
+    <node x="6058.959066100236" y="934.0">Builder.Decorator.Clavier</node>
+    <node x="1106.3851780313935" y="1045.0">AbstractFactories.VitesseFactories.VitesseOiseau</node>
+    <node x="7577.100121717792" y="2520.5">ObserverObservableMVC.Observer</node>
+    <node x="3016.642857142858" y="1552.0">Builder.ElementsDuJeu</node>
+    <node x="6966.025121717792" y="560.0">AbstractFactories.FormeFactories.Carre</node>
+    <node x="5448.959077380952" y="4155.5">ObserverObservableMVC.Controller.JeuController</node>
+    <node x="4962.959077380952" y="4136.0">ObserverObservableMVC.Model.Memento.Memento</node>
+    <node x="3357.0" y="4568.0">jdk</node>
+    <node x="5953.025121717792" y="578.5">Builder.Decorator.Listener</node>
+    <node x="990.0" y="467.0">AbstractFactories.CouleurFactories.Bleu</node>
+    <node x="1770.1530351742508" y="1101.0">Builder.Message</node>
+    <node x="2365.0901045566943" y="560.0">AbstractFactories.GraviteFactories.Gravite</node>
+    <node x="5015.292410714286" y="2997.0">ObserverObservableMVC.Model.AbstractModel</node>
+    <node x="4418.959066100235" y="1082.5">AbstractFactories.FichierFactories.CochonMort</node>
+    <node x="2423.153035174251" y="1082.5">AbstractFactories.GraviteFactories.GraviteOiseau</node>
+    <node x="7516.600121717792" y="4118.0">ObserverObservableMVC.Vue.Partie</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Builder.Decorator.Fenetre" target="AbstractFactories.CouleurFactories.Couleur">
+      <point x="34.875" y="-79.5" />
+      <point x="3962.0215661002358" y="814.0" />
+      <point x="3880.830357142858" y="814.0" />
+      <point x="3880.830357142858" y="347.0" />
+      <point x="2833.799601274486" y="347.0" />
+      <point x="99.64285714285711" y="153.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.Memento.TemplatMethod.Jeu" target="ObserverObservableMVC.Model.AbstractModel">
+      <point x="0.0" y="-172.0" />
+      <point x="5057.959077380952" y="3699.0" />
+      <point x="5150.292410714286" y="3699.0" />
+      <point x="-135.0" y="338.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="Builder.Message">
+      <point x="-253.125" y="-338.5" />
+      <point x="5032.167410714286" y="2977.0" />
+      <point x="1472.8851780313935" y="2977.0" />
+      <point x="1472.8851780313935" y="1512.0" />
+      <point x="1802.4863685075843" y="1512.0" />
+      <point x="-64.66666666666652" y="42.0" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.Memento.TemplatMethod.EntreeDuJeu" target="ObserverObservableMVC.Model.Memento.TemplatMethod.Jeu">
+      <point x="0.0" y="-79.0" />
+      <point x="4803.459077380952" y="4093.0" />
+      <point x="4913.792410714286" y="4093.0" />
+      <point x="-144.16666666666652" y="172.0" />
+    </edge>
+    <edge source="ObserverObservableMVC.Controller.JeuController" target="ObserverObservableMVC.Controller.AbstractController">
+      <point x="0.0" y="-60.5" />
+      <point x="-73.0" y="98.0" />
+    </edge>
+    <edge source="ObserverObservableMVC.Controller.AbstractController" target="ObserverObservableMVC.Model.AbstractModel">
+      <point x="0.0" y="-98.0" />
+      <point x="5622.959077380952" y="3699.0" />
+      <point x="5420.292410714286" y="3699.0" />
+      <point x="135.0" y="338.5" />
+    </edge>
+    <edge source="Builder.Decorator.Souris" target="Builder.Decorator.Listener">
+      <point x="0.0" y="-116.0" />
+      <point x="5223.459066100235" y="914.0" />
+      <point x="5980.9251217177925" y="914.0" />
+      <point x="-111.59999999999991" y="42.0" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="Builder.Decorator.Lanceur">
+      <point x="84.375" y="-338.5" />
+      <point x="5369.667410714286" y="2927.0" />
+      <point x="6547.090104556694" y="2927.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="AbstractFactories.CouleurFactories.Blanc" target="AbstractFactories.CouleurFactories.Couleur">
+      <point x="0.0" y="-153.5" />
+      <point x="815.0" y="417.0" />
+      <point x="2634.5138869887714" y="417.0" />
+      <point x="-99.64285714285711" y="153.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.Memento.TemplatMethod.Jeu" target="ObserverObservableMVC.Model.Memento.Memento">
+      <point x="28.833333333333485" y="172.0" />
+      <point x="5086.792410714286" y="4093.0" />
+      <point x="5096.084077380952" y="4093.0" />
+      <point x="26.625" y="-80.0" />
+    </edge>
+    <edge source="Builder.Decorator.Listener" target="AbstractFactories.FormeFactories.Forme">
+      <point x="0.0" y="-42.0" />
+      <point x="6092.525121717792" y="447.0" />
+      <point x="5388.359869131629" y="447.0" />
+      <point x="6.8125" y="60.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.Memento.InteractionNiveaux" target="ObserverObservableMVC.Model.Memento.Memento">
+      <point x="-82.75" y="-79.5" />
+      <point x="4986.709077380952" y="4339.0" />
+      <point x="5016.209077380952" y="4339.0" />
+      <point x="-53.25" y="80.0" />
+    </edge>
+    <edge source="ObserverObservableMVC.Vue.Partie" target="ObserverObservableMVC.Controller.AbstractController">
+      <point x="-80.0" y="-98.0" />
+      <point x="7596.600121717792" y="4093.0" />
+      <point x="5695.959077380952" y="4093.0" />
+      <point x="73.0" y="98.0" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.Memento.TemplatMethod.Niveau1" target="ObserverObservableMVC.Model.Memento.TemplatMethod.Jeu">
+      <point x="0.0" y="-42.0" />
+      <point x="5312.459077380952" y="4093.0" />
+      <point x="5202.125744047619" y="4093.0" />
+      <point x="144.16666666666652" y="172.0" />
+    </edge>
+    <edge source="AbstractFactories.CouleurFactories.Jaune" target="AbstractFactories.CouleurFactories.Couleur">
+      <point x="0.0" y="-153.5" />
+      <point x="2190.0901045566943" y="447.0" />
+      <point x="2700.942458417343" y="447.0" />
+      <point x="-33.21428571428578" y="153.5" />
+    </edge>
+    <edge source="AbstractFactories.FormeFactories.Carre" target="AbstractFactories.FormeFactories.Forme">
+      <point x="0.0" y="-60.5" />
+      <point x="7075.025121717792" y="407.0" />
+      <point x="5442.859869131628" y="407.0" />
+      <point x="61.312499999999545" y="60.5" />
+    </edge>
+    <edge source="AbstractFactories.AbstractFactory" target="AbstractFactories.FormeFactories.Forme">
+      <point x="39.80000000000018" y="-116.0" />
+      <point x="3068.192857142858" y="914.0" />
+      <point x="3083.392857142858" y="914.0" />
+      <point x="3083.392857142858" y="377.0" />
+      <point x="5279.359869131629" y="377.0" />
+      <point x="-102.1875" y="60.5" />
+    </edge>
+    <edge source="AbstractFactories.FormeFactories.Triangle" target="AbstractFactories.FormeFactories.Forme">
+      <point x="0.0" y="-60.5" />
+      <point x="5009.297369131629" y="437.0" />
+      <point x="5361.109869131629" y="437.0" />
+      <point x="-20.4375" y="60.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="ObserverObservableMVC.Observer">
+      <point x="253.125" y="-338.5" />
+      <point x="5538.417410714286" y="2977.0" />
+      <point x="7745.600121717792" y="2977.0" />
+      <point x="7745.600121717792" y="2704.0" />
+      <point x="7701.600121717792" y="2704.0" />
+      <point x="0.0" y="42.0" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="Builder.Decorator.Clavier">
+      <point x="151.875" y="-338.5" />
+      <point x="5437.167410714286" y="2947.0" />
+      <point x="7403.600121717792" y="2947.0" />
+      <point x="7403.600121717792" y="1502.0" />
+      <point x="6333.709066100236" y="1502.0" />
+      <point x="117.75000000000023" y="209.0" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="Builder.Decorator.AnimalAvecMouvement">
+      <point x="-118.125" y="-338.5" />
+      <point x="5167.167410714286" y="2937.0" />
+      <point x="3158.726190476191" y="2937.0" />
+      <point x="0.0" y="79.5" />
+    </edge>
+    <edge source="AbstractFactories.FichierFactories.Lanceur" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="0.0" y="-60.5" />
+      <point x="3234.392857142858" y="854.0" />
+      <point x="4339.631371717792" y="854.0" />
+      <point x="-69.46875" y="60.5" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="AbstractFactories.FichierFactories.Ciel">
+      <point x="67.2258064516127" y="-320.0" />
+      <point x="3344.3686635944705" y="1422.0" />
+      <point x="3638.3965661002358" y="1422.0" />
+      <point x="-42.75" y="60.5" />
+    </edge>
+    <edge source="AbstractFactories.FichierFactories.OiseauAuLancer" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="0.0" y="-60.5" />
+      <point x="4714.459066100235" y="904.0" />
+      <point x="4425.131371717792" y="904.0" />
+      <point x="16.03125" y="60.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="Builder.Decorator.Fenetre">
+      <point x="-50.625" y="-338.5" />
+      <point x="5234.667410714286" y="2917.0" />
+      <point x="4351.48405028922" y="2917.0" />
+      <point x="4351.48405028922" y="2252.0" />
+      <point x="4204.912621717792" y="2252.0" />
+      <point x="4204.912621717792" y="1462.0" />
+      <point x="3927.1465661002358" y="1462.0" />
+      <point x="0.0" y="79.5" />
+    </edge>
+    <edge source="AbstractFactories.FormeFactories.Point" target="AbstractFactories.FormeFactories.Forme">
+      <point x="0.0" y="-60.5" />
+      <point x="6837.025121717792" y="417.0" />
+      <point x="5429.234869131628" y="417.0" />
+      <point x="47.687499999999545" y="60.5" />
+    </edge>
+    <edge source="AbstractFactories.AbstractFactory" target="AbstractFactories.CouleurFactories.Couleur">
+      <point x="0.0" y="-116.0" />
+      <point x="3028.392857142858" y="427.0" />
+      <point x="2767.3710298459146" y="427.0" />
+      <point x="33.21428571428578" y="153.5" />
+    </edge>
+    <edge source="AbstractFactories.VitesseFactories.VitesseOiseau" target="AbstractFactories.VitesseFactories.Vitesse">
+      <point x="0.0" y="-98.0" />
+      <point x="1278.8851780313935" y="874.0" />
+      <point x="1678.75" y="874.0" />
+      <point x="-143.75" y="98.0" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="Builder.Decorator.AnimalAvecMouvement">
+      <point x="-130.25" y="320.0" />
+      <point x="3146.892857142858" y="2272.0" />
+      <point x="3158.726190476191" y="2272.0" />
+      <point x="0.0" y="-79.5" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="AbstractFactories.GraviteFactories.Gravite">
+      <point x="-117.6451612903229" y="-320.0" />
+      <point x="3159.497695852535" y="1432.0" />
+      <point x="2865.7142857142862" y="1432.0" />
+      <point x="2865.7142857142862" y="874.0" />
+      <point x="2484.6615331281228" y="874.0" />
+      <point x="26.57142857142844" y="60.5" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="AbstractFactories.FormeFactories.Forme">
+      <point x="50.419354838709296" y="-320.0" />
+      <point x="3327.562211981567" y="1412.0" />
+      <point x="3521.392857142858" y="1412.0" />
+      <point x="3521.392857142858" y="397.0" />
+      <point x="5306.609869131629" y="397.0" />
+      <point x="-74.9375" y="60.5" />
+    </edge>
+    <edge source="Builder.Decorator.Element" target="Builder.ElementsDuJeu">
+      <point x="-93.0" y="-42.0" />
+      <point x="4601.79655028922" y="2232.0" />
+      <point x="3494.226190476191" y="2232.0" />
+      <point x="217.08333333333303" y="320.0" />
+    </edge>
+    <edge source="groovyjarjarcommonscli" target="groovyjarjarcommonscli">
+      <point x="78.0" y="23.5" />
+      <point x="820.0" y="4645.0" />
+      <point x="556.0" y="4645.0" />
+      <point x="556.0" y="4579.75" />
+      <point x="-156.0" y="-11.75" />
+    </edge>
+    <edge source="Builder.Decorator.Lanceur" target="Builder.Decorator.ArrierePlan">
+      <point x="0.0" y="-61.0" />
+      <point x="6547.090104556694" y="2704.0" />
+      <point x="6493.340104556694" y="2704.0" />
+      <point x="93.0" y="116.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="Builder.Score">
+      <point x="-185.625" y="-338.5" />
+      <point x="5099.667410714286" y="2957.0" />
+      <point x="1494.8851780313935" y="2957.0" />
+      <point x="1494.8851780313935" y="1532.0" />
+      <point x="2257.319701840918" y="1532.0" />
+      <point x="-58.33333333333303" y="42.0" />
+    </edge>
+    <edge source="Builder.Decorator.Fenetre" target="AbstractFactories.CouleurFactories.Gris">
+      <point x="-34.875" y="-79.5" />
+      <point x="3892.2715661002358" y="824.0" />
+      <point x="3715.330357142858" y="824.0" />
+      <point x="0.0" y="153.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.Memento.Memento" target="ObserverObservableMVC.Model.Memento.TemplatMethod.Jeu">
+      <point x="-26.625" y="-80.0" />
+      <point x="5042.834077380952" y="4093.0" />
+      <point x="5029.125744047619" y="4093.0" />
+      <point x="-28.833333333333485" y="172.0" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="AbstractFactories.VitesseFactories.Vitesse">
+      <point x="-151.2580645161288" y="-320.0" />
+      <point x="3125.884792626729" y="1452.0" />
+      <point x="2620.903035174251" y="1452.0" />
+      <point x="2620.903035174251" y="894.0" />
+      <point x="1851.25" y="894.0" />
+      <point x="28.75" y="98.0" />
+    </edge>
+    <edge source="Builder.Decorator.AnimalAvecMouvement" target="Builder.Decorator.Animal">
+      <point x="62.0" y="-79.5" />
+      <point x="3220.726190476191" y="2426.0" />
+      <point x="3233.726190476191" y="2426.0" />
+      <point x="3233.726190476191" y="2262.0" />
+      <point x="4340.48405028922" y="2262.0" />
+      <point x="4340.48405028922" y="1492.0" />
+      <point x="4219.601923243093" y="1492.0" />
+      <point x="-39.85714285714266" y="135.0" />
+    </edge>
+    <edge source="AbstractFactories.FormeFactories.Ligne" target="AbstractFactories.FormeFactories.Forme">
+      <point x="0.0" y="-60.5" />
+      <point x="5247.297369131629" y="447.0" />
+      <point x="5374.734869131629" y="447.0" />
+      <point x="-6.8125" y="60.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="Builder.Decorator.Terrain">
+      <point x="16.875" y="-338.5" />
+      <point x="5302.167410714286" y="2907.0" />
+      <point x="6211.090104556694" y="2907.0" />
+      <point x="0.0" y="23.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="Builder.Decorator.Animal">
+      <point x="-16.875" y="-338.5" />
+      <point x="5268.417410714286" y="2907.0" />
+      <point x="4544.79655028922" y="2907.0" />
+      <point x="4544.79655028922" y="1472.0" />
+      <point x="4299.316208957378" y="1472.0" />
+      <point x="39.85714285714266" y="135.0" />
+    </edge>
+    <edge source="AbstractFactories.CouleurFactories.Vert" target="AbstractFactories.CouleurFactories.Couleur">
+      <point x="0.0" y="-153.5" />
+      <point x="155.0" y="397.0" />
+      <point x="2590.2281727030577" y="397.0" />
+      <point x="-143.92857142857133" y="153.5" />
+    </edge>
+    <edge source="AbstractFactories.FormeFactories.Rectangle" target="AbstractFactories.FormeFactories.Forme">
+      <point x="0.0" y="-60.5" />
+      <point x="6599.025121717792" y="427.0" />
+      <point x="5415.609869131628" y="427.0" />
+      <point x="34.062499999999545" y="60.5" />
+    </edge>
+    <edge source="AbstractFactories.GraviteFactories.GraviteOiseau" target="AbstractFactories.GraviteFactories.Gravite">
+      <point x="46.5" y="-60.5" />
+      <point x="2562.653035174251" y="904.0" />
+      <point x="2458.0901045566943" y="904.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="Builder.GameOver">
+      <point x="-219.375" y="-338.5" />
+      <point x="5065.917410714286" y="2967.0" />
+      <point x="1483.8851780313935" y="2967.0" />
+      <point x="1483.8851780313935" y="1522.0" />
+      <point x="2021.4863685075838" y="1522.0" />
+      <point x="-74.66666666666697" y="42.0" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="ObserverObservableMVC.Observable">
+      <point x="219.375" y="-338.5" />
+      <point x="5504.667410714286" y="2967.0" />
+      <point x="7654.850121717792" y="2967.0" />
+      <point x="80.25" y="79.0" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="Builder.Decorator.Souris">
+      <point x="201.677419354839" y="-320.0" />
+      <point x="3478.820276497697" y="1502.0" />
+      <point x="5101.125732766902" y="1502.0" />
+      <point x="-122.33333333333348" y="116.0" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="Builder.ElementsDuJeu">
+      <point x="-151.875" y="-338.5" />
+      <point x="5133.417410714286" y="2947.0" />
+      <point x="1505.8851780313935" y="2947.0" />
+      <point x="1505.8851780313935" y="2272.0" />
+      <point x="3060.0595238095248" y="2272.0" />
+      <point x="-217.08333333333303" y="320.0" />
+    </edge>
+    <edge source="AbstractFactories.FichierFactories.CochonMort" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="0.0" y="-60.5" />
+      <point x="4506.459066100235" y="914.0" />
+      <point x="4414.443871717792" y="914.0" />
+      <point x="5.34375" y="60.5" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="151.2580645161288" y="-320.0" />
+      <point x="3428.4009216589866" y="1472.0" />
+      <point x="4077.1465661002353" y="1472.0" />
+      <point x="4077.1465661002353" y="894.0" />
+      <point x="4382.381371717792" y="894.0" />
+      <point x="-26.71875" y="60.5" />
+    </edge>
+    <edge source="Builder.Decorator.Fenetre" target="Builder.Decorator.Element">
+      <point x="111.59999999999991" y="79.5" />
+      <point x="4038.746566100235" y="1442.0" />
+      <point x="4605.29655028922" y="1442.0" />
+      <point x="4605.29655028922" y="2212.0" />
+      <point x="4663.79655028922" y="2212.0" />
+      <point x="-31.0" y="-42.0" />
+    </edge>
+    <edge source="Builder.Decorator.Ciel" target="Builder.Decorator.ArrierePlan">
+      <point x="0.0" y="-23.5" />
+      <point x="6346.590104556694" y="2704.0" />
+      <point x="6400.340104556694" y="2704.0" />
+      <point x="0.0" y="116.5" />
+    </edge>
+    <edge source="AbstractFactories.FormeFactories.Polygone" target="AbstractFactories.FormeFactories.Forme">
+      <point x="0.0" y="-60.5" />
+      <point x="6361.025121717792" y="437.0" />
+      <point x="5401.984869131628" y="437.0" />
+      <point x="20.437499999999545" y="60.5" />
+    </edge>
+    <edge source="AbstractFactories.CouleurFactories.Bleu" target="AbstractFactories.CouleurFactories.Couleur">
+      <point x="0.0" y="-153.5" />
+      <point x="1145.0" y="427.0" />
+      <point x="2656.656744131629" y="427.0" />
+      <point x="-77.5" y="153.5" />
+    </edge>
+    <edge source="Builder.Decorator.Clavier" target="Builder.Decorator.Element">
+      <point x="39.25" y="209.0" />
+      <point x="6255.209066100236" y="2252.0" />
+      <point x="4756.79655028922" y="2252.0" />
+      <point x="62.0" y="-42.0" />
+    </edge>
+    <edge source="AbstractFactories.AbstractFactory" target="AbstractFactories.GraviteFactories.Gravite">
+      <point x="-39.80000000000018" y="-116.0" />
+      <point x="2988.5928571428576" y="844.0" />
+      <point x="2537.8043902709796" y="844.0" />
+      <point x="79.71428571428532" y="60.5" />
+    </edge>
+    <edge source="Builder.Decorator.Animal" target="AbstractFactories.FormeFactories.Forme">
+      <point x="23.25" y="-135.0" />
+      <point x="4282.709066100235" y="794.0" />
+      <point x="4052.5178571428573" y="794.0" />
+      <point x="4052.5178571428573" y="427.0" />
+      <point x="5347.484869131629" y="427.0" />
+      <point x="-34.0625" y="60.5" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="Builder.GameOver">
+      <point x="-218.4838709677424" y="-320.0" />
+      <point x="3058.6589861751154" y="1492.0" />
+      <point x="2096.153035174251" y="1492.0" />
+      <point x="0.0" y="42.0" />
+    </edge>
+    <edge source="groovyjarjarantlr" target="groovyjarjarantlr">
+      <point x="83.66666666666669" y="23.5" />
+      <point x="249.16666666666669" y="4667.867838541667" />
+      <point x="0.0" y="4667.867838541667" />
+      <point x="0.0" y="4588.701171875" />
+      <point x="-125.5" y="-15.666666666666664" />
+    </edge>
+    <edge source="Builder.Decorator.AnimalAvecMouvement" target="AbstractFactories.GraviteFactories.Gravite">
+      <point x="-31.0" y="-79.5" />
+      <point x="3127.726190476191" y="2396.0" />
+      <point x="1759.6530351742508" y="2396.0" />
+      <point x="1759.6530351742508" y="914.0" />
+      <point x="2404.9472474138374" y="914.0" />
+      <point x="-53.14285714285688" y="60.5" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="AbstractFactories.FichierFactories.Terrain">
+      <point x="16.806451612903402" y="-320.0" />
+      <point x="3293.949308755761" y="1392.0" />
+      <point x="3382.642857142858" y="1392.0" />
+      <point x="-42.75" y="60.5" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="AbstractFactories.FichierFactories.Lanceur">
+      <point x="0.0" y="-320.0" />
+      <point x="42.75" y="60.5" />
+    </edge>
+    <edge source="AbstractFactories.CouleurFactories.Noir" target="AbstractFactories.CouleurFactories.Couleur">
+      <point x="0.0" y="-153.5" />
+      <point x="485.0" y="407.0" />
+      <point x="2612.3710298459146" y="407.0" />
+      <point x="-121.78571428571422" y="153.5" />
+    </edge>
+    <edge source="AbstractFactories.CouleurFactories.Rouge" target="AbstractFactories.CouleurFactories.Couleur">
+      <point x="0.0" y="-153.5" />
+      <point x="1475.0" y="437.0" />
+      <point x="2678.799601274486" y="437.0" />
+      <point x="-55.35714285714289" y="153.5" />
+    </edge>
+    <edge source="AbstractFactories.FichierFactories.OiseauKO" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="0.0" y="-60.5" />
+      <point x="5953.459066100236" y="864.0" />
+      <point x="4467.881371717792" y="864.0" />
+      <point x="58.78125" y="60.5" />
+    </edge>
+    <edge source="Builder.Decorator.Fenetre" target="AbstractFactories.FormeFactories.Forme">
+      <point x="104.625" y="-79.5" />
+      <point x="4031.7715661002358" y="834.0" />
+      <point x="4008.5178571428573" y="834.0" />
+      <point x="4008.5178571428573" y="407.0" />
+      <point x="5320.234869131629" y="407.0" />
+      <point x="-61.3125" y="60.5" />
+    </edge>
+    <edge source="AbstractFactories.FichierFactories.CochonVivant" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="0.0" y="-60.5" />
+      <point x="4927.459066100235" y="894.0" />
+      <point x="4435.818871717792" y="894.0" />
+      <point x="26.71875" y="60.5" />
+    </edge>
+    <edge source="Builder.Decorator.Animal" target="AbstractFactories.CouleurFactories.Couleur">
+      <point x="-69.75" y="-135.0" />
+      <point x="4189.709066100235" y="814.0" />
+      <point x="4030.5178571428573" y="814.0" />
+      <point x="4030.5178571428573" y="327.0" />
+      <point x="2878.0853155602003" y="327.0" />
+      <point x="143.92857142857156" y="153.5" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="Builder.Decorator.Fenetre">
+      <point x="134.4516129032254" y="-320.0" />
+      <point x="3411.594470046083" y="1462.0" />
+      <point x="3871.3465661002356" y="1462.0" />
+      <point x="-55.80000000000018" y="79.5" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="Builder.Decorator.Clavier">
+      <point x="252.0967741935483" y="-320.0" />
+      <point x="3529.239631336406" y="1532.0" />
+      <point x="6176.709066100236" y="1532.0" />
+      <point x="-39.25" y="209.0" />
+    </edge>
+    <edge source="AbstractFactories.FichierFactories.OiseautAReussit" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="0.0" y="-60.5" />
+      <point x="5746.459066100235" y="874.0" />
+      <point x="4457.193871717792" y="874.0" />
+      <point x="48.09375" y="60.5" />
+    </edge>
+    <edge source="Builder.Decorator.Listener" target="Builder.Decorator.Element">
+      <point x="111.59999999999991" y="42.0" />
+      <point x="6204.125121717792" y="884.0" />
+      <point x="6628.969244131629" y="884.0" />
+      <point x="6628.969244131629" y="2272.0" />
+      <point x="4818.79655028922" y="2272.0" />
+      <point x="124.0" y="-42.0" />
+    </edge>
+    <edge source="Builder.Decorator.Animal" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="69.75" y="-135.0" />
+      <point x="4329.209066100235" y="904.0" />
+      <point x="4393.068871717792" y="904.0" />
+      <point x="-16.03125" y="60.5" />
+    </edge>
+    <edge source="Builder.Decorator.Clavier" target="Builder.Decorator.Listener">
+      <point x="78.5" y="-209.0" />
+      <point x="6294.459066100236" y="904.0" />
+      <point x="6092.525121717792" y="904.0" />
+      <point x="0.0" y="42.0" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="Builder.Decorator.Animal">
+      <point x="168.0645161290322" y="-320.0" />
+      <point x="3445.20737327189" y="1482.0" />
+      <point x="4139.887637528807" y="1482.0" />
+      <point x="-119.57142857142844" y="135.0" />
+    </edge>
+    <edge source="AbstractFactories.AbstractFactory" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="79.60000000000036" y="-116.0" />
+      <point x="3107.992857142858" y="844.0" />
+      <point x="4328.943871717792" y="844.0" />
+      <point x="-80.15625" y="60.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Observable" target="ObserverObservableMVC.Observer">
+      <point x="0.0" y="-79.0" />
+      <point x="7574.600121717792" y="2704.0" />
+      <point x="7618.600121717792" y="2704.0" />
+      <point x="-83.0" y="42.0" />
+    </edge>
+    <edge source="Builder.Decorator.Animal" target="Builder.Decorator.Element">
+      <point x="119.57142857142844" y="135.0" />
+      <point x="4379.030494671664" y="1422.0" />
+      <point x="4685.79655028922" y="1422.0" />
+      <point x="4685.79655028922" y="2262.0" />
+      <point x="4725.79655028922" y="2262.0" />
+      <point x="31.0" y="-42.0" />
+    </edge>
+    <edge source="Builder.Decorator.AnimalAvecMouvement" target="Builder.Decorator.Element">
+      <point x="124.0" y="-79.5" />
+      <point x="3282.726190476191" y="2426.0" />
+      <point x="4601.79655028922" y="2426.0" />
+      <point x="-93.0" y="42.0" />
+    </edge>
+    <edge source="AbstractFactories.FichierFactories.OiseauEnLancer" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="0.0" y="-60.5" />
+      <point x="5525.959066100235" y="884.0" />
+      <point x="4446.506371717792" y="884.0" />
+      <point x="37.40625" y="60.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="Builder.Decorator.Ciel">
+      <point x="50.625" y="-338.5" />
+      <point x="5335.917410714286" y="2917.0" />
+      <point x="6346.590104556694" y="2917.0" />
+      <point x="0.0" y="23.5" />
+    </edge>
+    <edge source="Builder.Decorator.ArrierePlan" target="Builder.Decorator.Element">
+      <point x="-116.25" y="-116.5" />
+      <point x="6284.090104556694" y="2426.0" />
+      <point x="4694.79655028922" y="2426.0" />
+      <point x="0.0" y="42.0" />
+    </edge>
+    <edge source="ObserverObservableMVC.Model.AbstractModel" target="Builder.Decorator.Souris">
+      <point x="118.125" y="-338.5" />
+      <point x="5403.417410714286" y="2937.0" />
+      <point x="7392.600121717792" y="2937.0" />
+      <point x="7392.600121717792" y="1512.0" />
+      <point x="5345.792399433569" y="1512.0" />
+      <point x="122.33333333333348" y="116.0" />
+    </edge>
+    <edge source="AbstractFactories.FichierFactories.Ciel" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="0.0" y="-60.5" />
+      <point x="3681.1465661002358" y="874.0" />
+      <point x="4361.006371717792" y="874.0" />
+      <point x="-48.09375" y="60.5" />
+    </edge>
+    <edge source="AbstractFactories.CouleurFactories.Gris" target="AbstractFactories.CouleurFactories.Couleur">
+      <point x="0.0" y="-153.5" />
+      <point x="3715.330357142858" y="357.0" />
+      <point x="2811.656744131629" y="357.0" />
+      <point x="77.5" y="153.5" />
+    </edge>
+    <edge source="Builder.Decorator.AnimalAvecMouvement" target="AbstractFactories.VitesseFactories.Vitesse">
+      <point x="-124.0" y="-79.5" />
+      <point x="3034.726190476191" y="2426.0" />
+      <point x="1516.8851780313935" y="2426.0" />
+      <point x="1516.8851780313935" y="2262.0" />
+      <point x="1461.8851780313935" y="2262.0" />
+      <point x="1461.8851780313935" y="884.0" />
+      <point x="1736.25" y="884.0" />
+      <point x="-86.25" y="98.0" />
+    </edge>
+    <edge source="AbstractFactories.FormeFactories.Cercle" target="AbstractFactories.FormeFactories.Forme">
+      <point x="0.0" y="-60.5" />
+      <point x="7325.025121717792" y="377.0" />
+      <point x="5483.734869131628" y="377.0" />
+      <point x="102.18749999999955" y="60.5" />
+    </edge>
+    <edge source="AbstractFactories.AbstractFactory" target="AbstractFactories.VitesseFactories.Vitesse">
+      <point x="-79.60000000000036" y="-116.0" />
+      <point x="2948.7928571428574" y="854.0" />
+      <point x="1966.25" y="854.0" />
+      <point x="143.75" y="98.0" />
+    </edge>
+    <edge source="Builder.Decorator.Terrain" target="Builder.Decorator.ArrierePlan">
+      <point x="0.0" y="-23.5" />
+      <point x="6211.090104556694" y="2704.0" />
+      <point x="6307.340104556694" y="2704.0" />
+      <point x="-93.0" y="116.5" />
+    </edge>
+    <edge source="Builder.Decorator.ArrierePlan" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="-23.25" y="-116.5" />
+      <point x="6377.090104556694" y="2396.0" />
+      <point x="6647.469244131629" y="2396.0" />
+      <point x="6647.469244131629" y="854.0" />
+      <point x="4478.568871717792" y="854.0" />
+      <point x="69.46875" y="60.5" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="Builder.Message">
+      <point x="-235.2903225806449" y="-320.0" />
+      <point x="3041.852534562213" y="1502.0" />
+      <point x="1931.8197018409173" y="1502.0" />
+      <point x="64.66666666666652" y="42.0" />
+    </edge>
+    <edge source="AbstractFactories.FichierFactories.Terrain" target="AbstractFactories.FichierFactories.Fichier">
+      <point x="0.0" y="-60.5" />
+      <point x="3425.392857142858" y="864.0" />
+      <point x="4350.318871717792" y="864.0" />
+      <point x="-58.78125" y="60.5" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="Builder.Score">
+      <point x="-184.8709677419356" y="-320.0" />
+      <point x="3092.271889400922" y="1472.0" />
+      <point x="2315.653035174251" y="1472.0" />
+      <point x="0.0" y="42.0" />
+    </edge>
+    <edge source="Builder.Decorator.ArrierePlan" target="AbstractFactories.FormeFactories.Forme">
+      <point x="116.25" y="-116.5" />
+      <point x="6516.590104556694" y="2426.0" />
+      <point x="7205.525121717792" y="2426.0" />
+      <point x="7205.525121717792" y="387.0" />
+      <point x="5470.109869131628" y="387.0" />
+      <point x="88.56249999999955" y="60.5" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="AbstractFactories.AbstractFactory">
+      <point x="-50.419354838709296" y="-320.0" />
+      <point x="3226.7235023041485" y="1392.0" />
+      <point x="3028.392857142858" y="1392.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="Builder.ElementsDuJeu" target="AbstractFactories.CouleurFactories.Couleur">
+      <point x="-67.2258064516127" y="-320.0" />
+      <point x="3209.917050691245" y="1402.0" />
+      <point x="2918.392857142858" y="1402.0" />
+      <point x="2918.392857142858" y="437.0" />
+      <point x="2745.2281727030577" y="437.0" />
+      <point x="11.071428571428669" y="153.5" />
+    </edge>
+    <edge source="ObserverObservableMVC.Vue.Partie" target="ObserverObservableMVC.Observer">
+      <point x="80.0" y="-98.0" />
+      <point x="7756.600121717792" y="2704.0" />
+      <point x="7784.600121717792" y="2704.0" />
+      <point x="83.0" y="42.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5000000000000001" x="3094.9999999999995" y="2124.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>public</VISIBILITY>
+</Diagram>
+
