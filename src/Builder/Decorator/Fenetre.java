@@ -3,6 +3,7 @@ package Builder.Decorator;
 import AbstractFactories.CouleurFactories.Couleur;
 import AbstractFactories.CouleurFactories.Gris;
 import AbstractFactories.FormeFactories.Forme;
+import AbstractFactories.FormeFactory;
 
 
 public class Fenetre extends Element {
@@ -13,7 +14,8 @@ public class Fenetre extends Element {
 
   @Override
   public void ajoutComposant() {
-    rectangle = elementDuJeu.getForme();
+    factory = new FormeFactory();
+    rectangle = factory.getForme();
     couleur = (Couleur) new Gris();
   }
 }

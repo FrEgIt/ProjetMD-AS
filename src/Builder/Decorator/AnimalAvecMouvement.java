@@ -1,5 +1,6 @@
 package Builder.Decorator;
 
+import AbstractFactories.*;
 import Builder.Decorator.Animal;
 import AbstractFactories.VitesseFactories.Vitesse;
 import AbstractFactories.GraviteFactories.Gravite;
@@ -13,11 +14,21 @@ public class AnimalAvecMouvement extends Animal {
 
     @Override
     public void ajoutComposant() {
-        point = elementDuJeu.getForme();
-        couleur = elementDuJeu.getCouleur();
-        fichier = elementDuJeu.getFichier();
-        vitesse = elementDuJeu.getVitesse();
-        gravite = elementDuJeu.getGravite();
+
+        factory = new FormeFactory();
+        point = factory.getForme();
+
+        factory = new CouleurFactory();
+        couleur = factory.getCouleur();
+
+        factory = new FichierFactory();
+        fichier = factory.getFichier();
+
+        factory = new VitesseFactory();
+        vitesse = factory.getVitesse();
+
+        factory = new GraviteFactory();
+        gravite = factory.getGravite();
     }
 
     public Vitesse getVitesse() {

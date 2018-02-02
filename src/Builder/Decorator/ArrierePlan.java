@@ -1,7 +1,9 @@
 package Builder.Decorator;
 
 import AbstractFactories.FichierFactories.Fichier;
+import AbstractFactories.FichierFactory;
 import AbstractFactories.FormeFactories.Forme;
+import AbstractFactories.FormeFactory;
 
 import javax.swing.*;
 import java.awt.*;
@@ -18,8 +20,11 @@ public abstract class ArrierePlan extends Element {
 
     @Override
     public void ajoutComposant() {
-        forme = elementDuJeu.getForme();
-        fichier = elementDuJeu.getFichier();
+        factory = new FormeFactory();
+        forme = factory.getForme();
+
+        factory = new FichierFactory();
+        fichier = factory.getFichier();
     }
 
     public Forme getForme() {

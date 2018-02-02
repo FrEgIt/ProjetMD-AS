@@ -6,17 +6,27 @@ import AbstractFactories.FormeFactories.Forme;
 import AbstractFactories.CouleurFactories.Couleur;
 import AbstractFactories.GraviteFactories.Gravite;
 
-public abstract class AbstractFactory {
+public class AbstractFactory {
 
 
-  abstract public Forme getForme() ;
+    public Forme getForme() {
+        return null;
+    }
 
-  abstract public Couleur getCouleur();
+    public Couleur getCouleur() {
+        return null;
+    }
 
-  abstract public Fichier getFichier() ;
+    public Fichier getFichier() {
+        return null;
+    }
 
-  abstract public Vitesse getVitesse() ;
+    public Vitesse getVitesse() {
+        return null;
+    }
 
-  abstract public Gravite getGravite() ;
+    public Gravite getGravite() {
+        return null;
+    }
 
 }

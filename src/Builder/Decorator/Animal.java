@@ -1,9 +1,12 @@
 package Builder.Decorator;
 
 
+import AbstractFactories.CouleurFactory;
 import AbstractFactories.FichierFactories.Fichier;
+import AbstractFactories.FichierFactory;
 import AbstractFactories.FormeFactories.Forme;
 import AbstractFactories.CouleurFactories.Couleur;
+import AbstractFactories.FormeFactory;
 
 import javax.swing.*;
 import java.awt.*;
@@ -25,9 +28,12 @@ public class Animal extends Element {
 
     @Override
     public void ajoutComposant() {
-        point = elementDuJeu.getForme();
-        couleur = elementDuJeu.getCouleur();
-        fichier = elementDuJeu.getFichier();
+        factory = new FormeFactory();
+        point = factory.getForme();
+        factory = new CouleurFactory();
+        couleur = factory.getCouleur();
+        factory = new FichierFactory();
+        fichier = factory.getFichier();
     }
 
     public Forme getPoint() {

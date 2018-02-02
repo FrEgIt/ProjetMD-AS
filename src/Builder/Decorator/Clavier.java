@@ -1,6 +1,8 @@
 package Builder.Decorator;
 
 
+import AbstractFactories.FormeFactory;
+
 import javax.swing.*;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
@@ -37,7 +39,8 @@ public class Clavier extends Listener implements KeyListener{
 
   @Override
   public void ajoutComposant() {
-      point = elementDuJeu.getForme();
+      factory = new FormeFactory();
+       point = factory.getForme();
   }
 
   public int getKeyCode() {
