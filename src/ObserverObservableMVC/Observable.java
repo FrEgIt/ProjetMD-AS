@@ -1,7 +1,5 @@
 package ObserverObservableMVC;
 
-import String;
-
 public interface Observable {
 
   
@@ -9,6 +7,6 @@ public interface Observable {
 
   public void removeObserver();
 
-  public void notifyObserver(String message);
+  public void notifyObserver(Boolean inputing);
 
 }

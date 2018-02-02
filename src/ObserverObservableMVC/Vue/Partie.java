@@ -8,7 +8,6 @@ public class Partie implements Observer {
 
   public AbstractController controller;
 
-    public Vector  myObserver;
 
   public void getPreferrdSize() {
   }
@@ -16,4 +15,8 @@ public class Partie implements Observer {
   public void main() {
   }
 
+  @Override
+  public void update(Boolean inputing) {
+
+  }
 }
