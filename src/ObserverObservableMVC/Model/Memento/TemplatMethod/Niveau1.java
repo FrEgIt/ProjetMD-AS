@@ -8,5 +8,6 @@ public class Niveau1 extends Jeu {
   @Override
   public void init() {
 
+    //
   }
 }

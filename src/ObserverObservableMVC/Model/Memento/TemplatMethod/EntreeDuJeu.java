@@ -6,9 +6,11 @@ public class EntreeDuJeu extends Jeu {
   }
 
   public void bienvenue() {
+
   }
 
   public void LancementDuJeu() {
+
   }
 
 }
