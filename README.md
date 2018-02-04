@@ -13,7 +13,7 @@ Pour le développement du jeux, veuillez trouver dans le répertoire ProjetMD-AS
  - ObserverObservableMVC:
  	-- Controller.
  	-- Model:
- 		--- Memento
+		--- Memento
  	-- Vue.
  	
 Outils de développement du jeu : 
