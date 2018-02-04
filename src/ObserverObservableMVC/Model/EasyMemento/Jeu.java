@@ -6,6 +6,7 @@ import Builder.Decorator.AnimalAvecMouvement;
 import ObserverObservableMVC.Model.AbstractModel;
 import ObserverObservableMVC.Observer;
 
+import java.awt.*;
 import java.util.ArrayList;
 
 public abstract class Jeu extends AbstractModel {
@@ -34,32 +35,31 @@ public abstract class Jeu extends AbstractModel {
     public abstract void init();
 
     public Boolean distance(AnimalAvecMouvement animalAvecMouvement, Animal animal) {
-        java.awt.Point box1 = animal.getPoint().getPoints().get(0);
-        int height1 = animal.getImageIcon().getIconHeight();
-        int width1 = animal.getImageIcon().getIconWidth();
-        java.awt.Point box2 = animalAvecMouvement.getPoint().getPoints().get(0);
-        int height2 = animalAvecMouvement.getImageIcon().getIconHeight();
-        int width2 = animalAvecMouvement.getImageIcon().getIconHeight();
 
-        if ((box2.x >= box1.x + width1)      // trop à droite
-                || (box2.x + width2 <= box1.x) // trop à gauche
-                || (box2.y >= box1.y + height1) // trop en bas
-                || (box2.y + height2 <= box1.y))  // trop en haut
+        java.awt.Point box1 = getPointOfAnimal(animal);
+        java.awt.Point dim1 = getSizeOfAnimal(animal);
+        java.awt.Point box2 = getPointOfAnimal(animalAvecMouvement);
+        java.awt.Point dim2 = getSizeOfAnimal(animalAvecMouvement);
+
+        if ((box2.x >= box1.x + dim1.x)      // trop à droite
+                || (box2.x + dim2.x <= box1.x) // trop à gauche
+                || (box2.y >= box1.y + dim1.y) // trop en bas
+                || (box2.y + dim2.y <= box1.y))  // trop en haut
             return false;
         else
             return true;
     }
 
-  /*bool Collision(AABB box1,AABB box2)
-  {
-    if(         (box2.x >= box1.x + box1.w)      // trop à droite
-            ||  (box2.x + box2.w <= box1.x) // trop à gauche
-            ||  (box2.y >= box1.y + box1.h) // trop en bas
-            ||  (box2.y + box2.h <= box1.y))  // trop en haut
-      return false;
-    else
-      return true;
-  }*/
+    private java.awt.Point getPointOfAnimal(Animal animal){
+        return animal.getPoint().getPoints().get(0);
+    }
+
+    private java.awt.Point getSizeOfAnimal(Animal animal){
+        int height = animal.getImageIcon().getIconHeight();
+        int width = animal.getImageIcon().getIconWidth();
+        return new java.awt.Point(height, width);
+    }
+
 
     public void stop() {
     }
