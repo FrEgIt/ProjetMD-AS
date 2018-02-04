@@ -1,6 +1,6 @@
 # Projet de l'UE: Méthode de développement.
 
-# Réalisateurs du projet : 
+- Réalisateurs du projet : 
    Mohamed ABDELNABI - Mouhssine Eddine SAKAKINI
 
 
