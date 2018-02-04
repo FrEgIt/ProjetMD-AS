@@ -19,6 +19,6 @@ Pour le développement du jeux, veuillez trouver dans le répertoire ProjetMD-AS
  	- Vue.
  	
 Outils de développement du jeu : 
-	- IDE : IntelliJ
-	- Modélisation : ArgoUML
-	- Conception du projet : design pattern.
+- IDE : IntelliJ
+- Modélisation : ArgoUML
+- Conception du projet : design pattern.
